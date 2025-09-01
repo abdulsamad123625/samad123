@@ -1,2 +1,7 @@
-# samad123
-first lab for github
+# Heading 1
+wgsggs
+
+## Heading 2
+tdhddd
+
+### Heading 3
